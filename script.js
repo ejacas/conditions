@@ -1,15 +1,15 @@
 // Conditions 1 užduotis
 
 
-// var kaina = prompt("Įveskite prekės kainą")
+var kaina = prompt("Įveskite prekės kainą")
 
-// var bePvm = (kaina * 0.79)
+var bePvm = (kaina * 0.79)
 
-// var pvm = (kaina - bePvm)
+var pvm = (kaina - bePvm)
 
-// console.log("Prekės kaina su PVM: " + kaina)
-// console.log("PVM: " + pvm.toFixed(2))
-// console.log("Prekės kaina be PVM: " + bePvm)
+console.log("Prekės kaina su PVM: " + kaina)
+console.log("PVM: " + pvm.toFixed(2))
+console.log("Prekės kaina be PVM: " + bePvm)
 
 
 // Conditions 2 užduotis (nepavyko)
